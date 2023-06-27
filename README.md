@@ -34,6 +34,8 @@ If you find this research helpful, please consider citing our paper:
 	journal      = {Journal of Intelligent Information Systems},
 	volume       = {60},
         number       = {3},
-	pages        = {}
+	pages        = {},
+	url          = {https://doi.org/10.1007/s10844-023-00796-y}
+	doi          = {10.1007/s10844-023-00796-y}
 }
 ```
